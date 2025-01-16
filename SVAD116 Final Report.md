@@ -1,19 +1,28 @@
 
 # Cloud Providers Considered
 
-#### Large Company 
+### Large Company 
+###### AWS
+###### Azure
+###### Google Cloud
 
-#### Small Company
+###### Cisco Cloud
 
-#### Student/Personal User
+###### Oracle Cloud
 
-# Cloud Provider Chosen
+### Small Company
+###### DigitalOcean
 
-#### Large Company
+###### Linode
 
-#### Small Company
+###### IBM Cloud
 
-#### Student/Personal User
+###### Rackspace
+
+###### Hostinger
+### Student/Personal User
+
+###### Hostinger
 
 # Web Server
 
