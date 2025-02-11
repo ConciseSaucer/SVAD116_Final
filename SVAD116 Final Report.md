@@ -2,136 +2,34 @@
 
 ## From the Perspective of a Large Company 
 ##### AWS
-###### Pros
-* Provides services and tools tailored for enterprise-level solutions
-* Scalability to accommodate varying workloads efficiently
-* Large global infrastructure in multiple regions ensuring high availability and redundancy
-* Security compliance certifications 
-* Excellent customer support for premium customers
-###### Cons
-* Those not familiar with cloud services may be overwhelmed by the complexity
-* High cost, potential for overspending on the extensive range of services if incorrectly managed
-* Steep learning curve
+For large companies requiring extensive scalability and a wide range of services, AWS is the top choice. It offers enterprise-level solutions with scalable infrastructure across multiple regions, ensuring high availability and redundancy. AWS provides robust security compliance certifications and excellent customer support for premium customers. However, it has a steep learning curve and can be costly if not managed carefully.
 ##### Azure
-###### Pros
-* Seamless integration with Microsoft products like Windows or Office365
-* AI and machine learning tools for advanced analytics
-* Emphasis on security and compliance
-* High scalability to support large workloads
-###### Cons
-* Cost can be higher compared to AWS
-* The ecosystem is less diverse than AWS, limiting third-party options
+Azure is another strong contender, especially for businesses already using Microsoft products like Windows or Office 365. It offers advanced AI and machine learning tools, high scalability, and strong security features. While Azure integrates seamlessly with Microsoft ecosystems, its cost may be higher compared to AWS, and it has a less diverse third-party ecosystem.
 ##### Google Cloud
-###### Pros
-* Strong focus on AI and machine learning
-* Scalable infrastructure that supports  large-scale data processing and analytics
-* Strong encryption and compliance support
-* Cost effective pricing for high usage
-###### Cons
-* Steep learning curve, is very unique compared to AWS or Azure
-* Ecosystem is less extensive compared to AWS 
+Google Cloud is ideal for companies focused on AI and data analytics. Its scalable infrastructure supports large-scale processing, and it offers cost-effective pricing for high usage. However, Google Cloud’s unique nature can pose a steep learning curve for those unfamiliar with its platform.
 ##### IBM Cloud
-###### Pros
-* Strong focus on hybrid cloud solutions
-* Extensive AI and data analytic tools
-* High emphasis on security and compliance
-* Enterprise-grade support tailored to large organizations
-###### Cons
-* Higher cost compared to AWS or Google for similar service
-* Unintuitive for those not familiar with IBM ecosystem
-##### DigitalOcean
-###### Pros
-* Simple and easy to use interface 
-* Cost-effective with transparent pricing
-* Focus on developer tools for efficient app deployment 
-###### Cons
-* Missing advanced features compared to AWS and Azure limiting scalability for large business
-* Fewer global data centers affecting latency in some areas
-
-## From the Perspective of a Small Company
-### DigitalOcean
-###### Pros
-* Very cost-effective with straightforward pricing models
-* User-friendly platform that simplifies cloud management
-* Excellent customer support and community resources
-###### Con
-* Limited advanced features compared to larger providers, which might be a constraint as the business grows.
-### AWS
-###### Pros
-* Flexible infrastructure that can grow with business needs
-* Pay as you go model, reducing upfront cost
-* Access to high quality tools and services usually reserved for large enterprises
-###### Cons
-* Initial setup can be daunting and time consuming
-* Hidden cost if not monitored carefully
-* Learning curve can be steep without prior experience
-### Azure
-###### Pros
-* Great integration with Microsoft products
-* User interface simplifies cloud management
-* Cost-effective when coupled with other Microsoft licenses/subscriptions
-###### Con
-* Requires investment into other Microsoft services to be cost effective
-### Google Cloud
-###### Pros
-* Affordable pricing with flexible payment options
-* Easy integration with Google Workspace applications
-* Scalable solutions that can grow with the business without large upfront cost
-###### Con
-* Limited third-party compared to AWS
-### IBM Cloud
-###### Pros
-* No significant upfront cost
-* Access to AI tools
-* Good customer support, including dedicated account managers for small businesses
-###### Cons
-* More expensive than alternatives
-* Requires learning if not already using IBM products
+IBM Cloud is best suited for organizations needing hybrid cloud solutions. It provides extensive AI tools, emphasizes security, and offers enterprise-grade support. While IBM Cloud is highly secure, it may be more expensive than AWS or Google, and navigating the IBM ecosystem can be challenging for newcomers.
+##### Digital Ocean
+DigitalOcean, while less feature-rich compared to larger providers, is a cost-effective option with a user-friendly interface. It’s perfect for smaller businesses seeking simplicity and affordability without complex features. However, it lacks advanced scalability options for larger enterprises.
+## From the Perspective of a Small Company 
+##### Digital Ocean
+Small companies often prioritize simplicity and affordability over extensive features. DigitalOcean stands out in this category, offering an easy-to-use platform with straightforward pricing and excellent customer support. Despite its advantages, small businesses may face constraints as they grow due to the lack of advanced features compared to AWS or Azure.
+##### AWS
+AWS also offers flexibility for smaller businesses through a pay-as-you-go model, reducing upfront costs while providing access to high-quality tools. However, the initial setup can be daunting, and hidden costs may arise without careful monitoring. Azure provides cost-effective solutions when integrated with Microsoft products but requires investment in other Microsoft services to maximize savings.
+##### Google Cloud
+Google Cloud is another viable option for small businesses, offering scalable solutions without large upfront costs. Its affordable pricing and flexible payment options make it a good fit for growing companies. However, the limited third-party ecosystem compared to AWS might be a drawback.
+##### IBM Cloud
+IBM Cloud provides no significant upfront costs and offers access to AI tools with dedicated account managers for small businesses. Despite its strengths, it may be more expensive than alternatives and requires learning if not already familiar with IBM products.
 ## From the Perspective of a Student/Personal User
 
-### Hostinger
-###### Pros
-* Extremely affordable pricing plans
-* User-friendly interface designed for ease of use
-* Offers a wide range of hosting options
-* Free domain registration with some plans
-* Strong customer support
-###### Cons
-* Limited advanced features compared to Linode
-* Hosting performance can vary depending on plan
-* Targeted more towards website hosting rather than full cloud services
-### Linode
-###### Pros
-* High customizable and developer friendly
-* Great performance and reliability
-* Pay as you go model
-* Focus on security
-* Community support for troubleshooting and learning
-###### Cons
-* More expensive compared to Hostinger
-* Due to advanced nature of the platform can be overwhelming to non-technical users
-* Less user-friendly for basic task like website hosting
-### AWS
-###### Pros
-* Affordable pricing tiers suitable for personal projects or small applications
-* Wide range of services catering to various needs
-* Extensive documentation and community support for troubleshooting issues
-###### Con
-* Learning curve can be steep without prior experience
-### Google
-###### Pros
-* Great for developers interested in AI, machine learning, or data analytics projects
-* Free tier available for certain services, allowing individuals to experiment at no cost
-* Integration with Google Workspace tools simplifies project management and collaboration
-###### Cons
-* The platform can be complex without prior cloud experience
-### DigitalOcean
-###### Pros
-* Ideal for developers looking for a simple, affordable way to host applications or websites
-* Transparent pricing model without hidden costs
-* Strong community support with forums and tutorials
-###### Con
-* The platform might lack some advanced features needed for more complex projects
+#### Hostinger
+Students and personal users often seek affordable, easy-to-use solutions for website hosting or small projects. Hostinger is ideal in this category, offering extremely affordable pricing plans with a user-friendly interface. It provides a wide range of hosting options, including free domain registration with some plans, along with strong customer support. However, it lacks advanced features compared to more technical platforms like Linode.
+##### Linode
+Linode appeals to technically inclined users who need high customization and performance. Its pay-as-you-go model and focus on security make it suitable for developers. While Linode is more expensive than Hostinger, its community support and reliability are significant advantages. Conversely, its platform can be overwhelming for non-technical users.
+##### AWS
+AWS offers affordable pricing tiers for personal projects or small applications, along with extensive documentation and community support. However, the steep learning curve without prior experience can be a challenge. Google Cloud is excellent for developers interested in AI, machine learning, or data analytics, offering a free tier for experimentation and integration with Google Workspace tools. Despite its strengths, the platform's complexity may pose challenges for those new to cloud services.
+##### DigitalOcean
+DigitalOcean is also ideal for students and personal users seeking a simple, affordable way to host applications or websites. Its transparent pricing model and strong community support make it accessible even for less technical users. However, it may lack some advanced features needed for more complex projects.
 # Best Cloud Providers
 ### Large Company
 AWS is for large companies needing extensive scalability and a wide range of services. Can afford the steep learning curve and cost.
@@ -140,12 +38,11 @@ DigitalOcean is perfect for small businesses seeking simplicity and affordabilit
 ### Student/Individual
 Hostinger is ideal for individuals looking for an affordable, easy-to-use solution for website hosting or VPS.
 # Web Server
-
 #### How it was Created
 The server is running using Nginx to display PHP to users. The PHP code came from the tutorials on W3Schools. 
 ### User interactivity
 The user can interact with the website by filling out a form that the user can submit to see their input.
-# Weekly SSH log
+# Weekly SSH Logs
 
 ### How many SSH attacks 
 
@@ -154,5 +51,5 @@ The user can interact with the website by filling out a form that the user can s
 ### Where the attacks are coming from
 
 # How to Secure SSH
-
+# Weekly HTTP Logs
 # How to Secure HTTP
