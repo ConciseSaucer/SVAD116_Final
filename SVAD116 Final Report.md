@@ -79,7 +79,7 @@ The user can interact with the website by filling out a form that the user can s
 | -------------- | ----- | ---- | ----------|
 | 64.227.190.117 | 19    | 6    | India     |
 | 118.193.39.245 | 5     | 6    | Hong Kong |
-| 103.17.118.179 | 5     | 6    | H.K       |
+| 103.17.118.179 | 5     | 6    | Hong Kong |
 | 193.122.139.72 | 5     | 6    | U.S.A     |
 | 206.162.203.60 | 5     | 6    | U.S.A     |
 | 45.91.238.180  | 4     | 6    | Poland    |
