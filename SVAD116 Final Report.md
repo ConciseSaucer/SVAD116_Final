@@ -89,7 +89,11 @@ The user can interact with the website by filling out a form that the user can s
 | 14.29.185.190  | 1     | 6    | China     |
 
 # How to Secure SSH
+#### Fail2Ban
 
+#### SSH Keys
+
+#### Move SSH Port from 22
 
 # Weekly HTTP Logs
 
