@@ -90,11 +90,12 @@ The user can interact with the website by filling out a form that the user can s
 
 # How to Secure SSH
 #### Fail2Ban
+  Fail2ban Identifies multiple ips attempting to permanently block them or temporarily block them depending on the configuration files. Fail2ban Scans log files and will act based on what the rules are set. Fail2ban is mainly a tool used to defend servers from bruteforce attacks by scanning suspicous ip based on the rules set.
 
 #### SSH Keys
-
+  SSH keys will be a more secure alternative to passwords because each machine that is authorized to ssh into the server will have access because they have the ssh keys. Other machines that don't have ssh keys won't be able to ssh into the server without the key. This is a secure alternative to a password because passwords would not be required for authentication.
 #### Move SSH Port from 22
-
+  Moving SSH from a different port will make it harder for attackers to find because 22 is the default port for ssh.
 # Weekly HTTP Logs
 
 
