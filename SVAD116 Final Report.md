@@ -88,6 +88,19 @@ The user can interact with the website by filling out a form that the user can s
 | 109.195.19.44  | 2     | 6    | Russia    |
 | 14.29.185.190  | 1     | 6    | China     |
 
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 177.116.140.14 | 16    | 7    | India     |
+| 185.126.12.85  | 14    | 7    | Hong Kong |
+| 47.237.118.73  | 13    | 7    | Hong Kong |
+| 154.82.73.22   | 12    | 7    | U.S.A     |
+| 52.190.63.49   | 11    | 7    | U.S.A     |
+| 41.153.30.107  | 11    | 7    | Poland    |
+| 161.35.45.66   | 11    | 7    | Belgium   |
+| 68.235.246.163 | 11    | 7    | Australia |
+| 123.58.210.18  | 10    | 7    | Russia    |
+| 137.184.122.143| 10    | 7    | China     |
+
 # How to Secure SSH
 #### Fail2Ban
   Fail2ban Identifies multiple ips attempting to permanently block them or temporarily block them depending on the configuration files. Fail2ban Scans log files and will act based on what the rules are set. Fail2ban is mainly a tool used to defend servers from bruteforce attacks by scanning suspicous ip based on the rules set.
@@ -98,6 +111,44 @@ The user can interact with the website by filling out a form that the user can s
   Moving SSH from a different port will make it harder for attackers to find because 22 is the default port for ssh.
 # Weekly HTTP Logs
 
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 165.22.231.4   | 22    | 5    | India     |
+| 172.69.136.135 | 2     | 5    | Hong Kong |
+| 198.235.24.5   | 2     | 5    | Hong Kong |
+| 42.83.147.55   | 2     | 5    | U.S.A     |
+| 110.166.71.39  | 2     | 5    | U.S.A     |
+| 54.202.148.220 | 2     | 5    | Poland    |
+| 205.169.39.45  | 2     | 5    | Belgium   |
+| 172.69.150.31  | 2     | 5    | Australia |
+| 3.92.235.212   | 2     | 5    | Russia    |
+| 207.46.13.127  | 2     | 5    | China     |
+
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 51.44.161.99   | 24    | 6    | India     |
+| 34.75.118.193  | 22    | 6    | Hong Kong |
+| 206.162.203.60 | 22    | 6    | Hong Kong |
+| 35.196.80.103  | 22    | 6    | U.S.A     |
+| 34.125.19.237  | 22    | 6    | U.S.A     |
+| 104.154.77.198 | 22    | 6    | Poland    |
+| 128.90.141.5   | 18    | 6    | Belgium   |
+| 209.97.171.57  | 17    | 6    | Australia |
+| 139.59.90.154  | 13    | 6    | Russia    |
+| 168.91.1.19    | 11    | 6    | China     |
+
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 209.97.171.57  | 34    | 7    | India     |
+| 13.37.235.192  | 24    | 7    | Hong Kong |
+| 34.67.123.181  | 22    | 7    | Hong Kong |
+| 35.94.201.33   | 22    | 7    | U.S.A     |
+| 35.226.103.55  | 22    | 7    | U.S.A     |
+| 128.199.253.219| 18    | 7    | Poland    |
+| 183.134.59.131 | 8     | 7    | Belgium   |
+| 172.69.136.135 | 4     | 7    | Australia |
+| 144.76.88.54   | 4     | 7    | Russia    |
+| 104.199.40.115 | 4     | 7    | China     |
 
 # How to Secure HTTP
 Understanding the OWASP Top Ten for Web Security is crucial for web server admins and developers to protect sensitive data, maintain system integrity, and ensure user trust. Knowing these risks and proactively mitigating common attack vectors, meeting industry standards and regulations, and ensuring a secure user experience are essential to fostering user trust.
