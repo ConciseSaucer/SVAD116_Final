@@ -1,7 +1,7 @@
 # Cloud Providers Considered
 ## From the Perspective of a Large Company
 ##### AWS
-For large companies requiring extensive scalability and a wide range of services, AWS is the top choice. It offers enterprise-level solutions with scalable infrastructure across multiple regions, ensuring high availability and redundancy. AWS provides robust security compliance certifications and excellent customer support for premium customers. However, it has a steep learning curve and can be costly if not managed carefully.
+For large companies requiring extensive scalability and a wide range of services, AWS is the top choice. It offers enterprise-level solutions with scalable infrastructure across multiple regions, ensuring high availability and redundancy. AWS provides robust security compliance certifications and excellent customer support for premium customers. It is important to get AWS certified employees, since it has a steep learning curve and can be costly if not managed carefully. 
 ##### Azure
 Azure is another strong contender, especially for businesses already using Microsoft products like Windows or Office 365. It offers advanced AI and machine learning tools, high scalability, and strong security features. While Azure integrates seamlessly with Microsoft ecosystems, its cost may be higher compared to AWS, and it has a less diverse third-party ecosystem.
 ##### Google Cloud
@@ -29,7 +29,7 @@ Students and personal users often seek affordable, easy-to-use solutions for web
 ##### Linode
 Linode appeals to technically inclined users who need high customization and performance. Its pay-as-you-go model and focus on security make it suitable for developers. While Linode is more expensive than Hostinger, its community support and reliability are significant advantages. Conversely, its platform can be overwhelming for non-technical users.
 ##### AWS
-AWS offers affordable pricing tiers for personal projects or small applications, along with extensive documentation and community support. However, the steep learning curve without prior experience can be a challenge. Google Cloud is excellent for developers interested in AI, machine learning, or data analytics, offering a free tier for experimentation and integration with Google Workspace tools. Despite its strengths, the platform's complexity may pose challenges for those new to cloud services.
+AWS offers affordable pricing tiers for personal projects or small applications, along with extensive documentation and community support. However, the steep learning curve without prior experience can be difficult. Despite its strengths, the platform's complexity may pose challenges for those new to cloud services.
 ##### DigitalOcean
 DigitalOcean is also ideal for students and personal users seeking a simple, affordable way to host applications or websites. Its transparent pricing model and strong community support make it accessible even for less technical users. However, it may lack some advanced features needed for more complex projects.
 # Best Cloud Providers
@@ -134,7 +134,7 @@ The user can interact with the website by filling out a form that the user can s
 #### SSH Keys
   SSH keys will be a more secure alternative to passwords because each machine that is authorized to ssh into the server will have access because they have the ssh keys. Other machines that don't have ssh keys won't be able to ssh into the server without the key. This is a secure alternative to a password because passwords would not be required for authentication.
 #### Move SSH Port from 22
-  Moving SSH from a different port will make it harder for attackers to find because 22 is the default port for ssh.
+  Moving SSH from port 22 to a different port will make reduce the amount of automated attacks on the system.
 # Weekly HTTP Logs
 
 | IP address     | Count | Week | Country   |
