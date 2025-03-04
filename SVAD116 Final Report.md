@@ -90,16 +90,42 @@ The user can interact with the website by filling out a form that the user can s
 
 | IP address     | Count | Week | Country   |
 | -------------- | ----- | ---- | ----------|
-| 177.116.140.14 | 16    | 7    | India     |
-| 185.126.12.85  | 14    | 7    | Hong Kong |
-| 47.237.118.73  | 13    | 7    | Hong Kong |
-| 154.82.73.22   | 12    | 7    | U.S.A     |
+| 177.116.140.14 | 16    | 7    | Brazil    |
+| 185.126.12.85  | 14    | 7    | Iran      |
+| 47.237.118.73  | 13    | 7    | Singapore |
+| 154.82.73.22   | 12    | 7    | Hong Kong |
 | 52.190.63.49   | 11    | 7    | U.S.A     |
-| 41.153.30.107  | 11    | 7    | Poland    |
-| 161.35.45.66   | 11    | 7    | Belgium   |
-| 68.235.246.163 | 11    | 7    | Australia |
-| 123.58.210.18  | 10    | 7    | Russia    |
-| 137.184.122.143| 10    | 7    | China     |
+| 41.153.30.107  | 11    | 7    | Egypt     |
+| 161.35.45.66   | 11    | 7    | U.K       |
+| 68.235.246.163 | 11    | 7    | U.S.A     |
+| 123.58.210.18  | 10    | 7    | Hong Kong |
+| 137.184.122.143| 10    | 7    | U.S.A     |
+
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 45.148.10.79   | 230   | 8    | Romania   |
+| 2.57.122.191   | 106   | 8    | Romania   |
+| 92.118.39.72   | 68    | 8    | Romania   |
+| 45.182.206.0   | 41    | 8    | Brazil    |
+| 92.255.85.189  | 39    | 8    | Russia    |
+| 193.32.162.137 | 38    | 8    |Netherlands|
+| 194.0.234.35   | 30    | 8    | U.K       |
+| 138.197.183.31 | 29    | 8    | Germany   |
+| 128.199.148.185| 28    | 8    | Singapore |
+| 207.154.202.218| 27    | 8    | Germany   |
+
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 218.92.0.142   | 315   | 9    | China     |
+| 2.57.122.191   | 261   | 9    | Romania   |
+| 103.249.18.54  | 162   | 9    | Indonesia |
+| 92.118.39.87   | 151   | 9    | Romania   |
+| 45.148.10.79   | 96    | 9    | Romania   |
+| 64.226.106.85  | 30    | 9    | Germany   |
+| 45.182.206.0   | 26    | 9    | Brazil    |
+| 154.92.16.94   | 20    | 9    | Hong Kong |
+| 186.124.22.55  | 16    | 9    | Argentina |
+| 175.207.13.86  | 16    | 9    | Korea     |
 
 # How to Secure SSH
 #### Fail2Ban
@@ -113,42 +139,55 @@ The user can interact with the website by filling out a form that the user can s
 
 | IP address     | Count | Week | Country   |
 | -------------- | ----- | ---- | ----------|
-| 165.22.231.4   | 22    | 5    | India     |
-| 172.69.136.135 | 2     | 5    | Hong Kong |
-| 198.235.24.5   | 2     | 5    | Hong Kong |
-| 42.83.147.55   | 2     | 5    | U.S.A     |
-| 110.166.71.39  | 2     | 5    | U.S.A     |
-| 54.202.148.220 | 2     | 5    | Poland    |
-| 205.169.39.45  | 2     | 5    | Belgium   |
-| 172.69.150.31  | 2     | 5    | Australia |
-| 3.92.235.212   | 2     | 5    | Russia    |
-| 207.46.13.127  | 2     | 5    | China     |
+| 165.22.231.4   | 22    | 5    | Canada    |
+| 172.69.136.135 | 2     | 5    | Estonia   |
+| 198.235.24.5   | 2     | 5    | U.S.A     |
+| 42.83.147.55   | 2     | 5    | China     |
+| 110.166.71.39  | 2     | 5    | China     |
+| 54.202.148.220 | 2     | 5    | U.S.A     |
+| 205.169.39.45  | 2     | 5    | U.S.A     |
+| 172.69.150.31  | 2     | 5    | Germany   | 
+| 3.92.235.212   | 2     | 5    | U.S.A     |
+| 207.46.13.127  | 2     | 5    | U.S.A     |
 
 | IP address     | Count | Week | Country   |
 | -------------- | ----- | ---- | ----------|
-| 51.44.161.99   | 24    | 6    | India     |
-| 34.75.118.193  | 22    | 6    | Hong Kong |
-| 206.162.203.60 | 22    | 6    | Hong Kong |
+| 51.44.161.99   | 24    | 6    | France    |
+| 34.75.118.193  | 22    | 6    | U.S.A     |
+| 206.162.203.60 | 22    | 6    | U.S.A     |
 | 35.196.80.103  | 22    | 6    | U.S.A     |
 | 34.125.19.237  | 22    | 6    | U.S.A     |
-| 104.154.77.198 | 22    | 6    | Poland    |
-| 128.90.141.5   | 18    | 6    | Belgium   |
-| 209.97.171.57  | 17    | 6    | Australia |
-| 139.59.90.154  | 13    | 6    | Russia    |
-| 168.91.1.19    | 11    | 6    | China     |
+| 104.154.77.198 | 22    | 6    | U.S.A     |
+| 128.90.141.5   | 18    | 6    | U.S.A     |
+| 209.97.171.57  | 17    | 6    | Singapore |
+| 139.59.90.154  | 13    | 6    | India     |
+| 168.91.1.19    | 11    | 6    | U.S.A     |
 
 | IP address     | Count | Week | Country   |
 | -------------- | ----- | ---- | ----------|
-| 209.97.171.57  | 34    | 7    | India     |
-| 13.37.235.192  | 24    | 7    | Hong Kong |
-| 34.67.123.181  | 22    | 7    | Hong Kong |
+| 209.97.171.57  | 34    | 7    | Singapore |
+| 13.37.235.192  | 24    | 7    | France    |
+| 34.67.123.181  | 22    | 7    | U.S.A     |
 | 35.94.201.33   | 22    | 7    | U.S.A     |
 | 35.226.103.55  | 22    | 7    | U.S.A     |
-| 128.199.253.219| 18    | 7    | Poland    |
-| 183.134.59.131 | 8     | 7    | Belgium   |
-| 172.69.136.135 | 4     | 7    | Australia |
-| 144.76.88.54   | 4     | 7    | Russia    |
-| 104.199.40.115 | 4     | 7    | China     |
+| 128.199.253.219| 18    | 7    | Singapore |
+| 183.134.59.131 | 8     | 7    | China     |
+| 172.69.136.135 | 4     | 7    | Estonia   |
+| 144.76.88.54   | 4     | 7    | Germany   |
+| 104.199.40.115 | 4     | 7    | Belgium   |
+
+| IP address     | Count | Week | Country   |
+| -------------- | ----- | ---- | ----------|
+| 193.41.206.246 | 49    | 8    | France    |
+| 13.91.132.57   | 48    | 8    | U.S.A     |
+| 35.188.117.88  | 22    | 8    | U.S.A     | 
+| 143.110.234.136| 22    | 8    | U.S.A     |
+| 34.135.42.72   | 22    | 8    | U.S.A     |
+| 152.42.198.53  | 21    | 8    | Singapore |
+| 128.90.128.16  | 18    | 8    | U.S.A     |
+| 184.154.139.10 | 15    | 8    | U.S.A     |
+| 183.134.59.131 | 8     | 8    | China     |
+| 168.91.1.20    | 6     | 8    | U.S.A     |
 
 # How to Secure HTTP
 Understanding the OWASP Top Ten for Web Security is crucial for web server admins and developers to protect sensitive data, maintain system integrity, and ensure user trust. Knowing these risks and proactively mitigating common attack vectors, meeting industry standards and regulations, and ensuring a secure user experience are essential to fostering user trust.
